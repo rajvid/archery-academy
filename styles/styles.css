@@ -110,6 +110,7 @@ footer a {
 .right {
   flex: 25%;
   margin: 0px 0px 0px 150px;
+  padding-bottom: 10px;
 }
 
 h1 {
@@ -139,4 +140,17 @@ hr{
   justify-content: space-around;
   text-align: justify;
   line-height: 1.5;
+}
+
+/* Service Page Code */
+
+.classinfo {
+  margin: auto;
+  padding: 20px 150px 20px 150px;
+  justify-content: space-around;
+  text-align: justify;
+}
+
+.classinfo h2 {
+  padding: 0px 0px 0px 0px;
 }
