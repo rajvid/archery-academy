@@ -102,7 +102,6 @@ footer a {
 .left {
   flex: 75%;
   margin: 0px 10px 0px 133px;
-  padding: auto;
   justify-content: space-around;
   text-align: justify;
 }
